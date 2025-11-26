@@ -4,7 +4,7 @@
 *	Build a chatbot that can respond meaningfully to a wide range of user inputs (you can mimic the answers of a chatbot by using the test/train files or use an API to retrieve real answers).
 *	Responses should be contextually relevant, grammatically correct, and semantically appropriate.
 *	You may use rule-based, retrieval-based, or generative models.
-*	Bonus: Indicate how you would include memory or personalization features.
+*	**Bonus:** Indicate how you would include memory or personalization features.
 
 ## Query Categorization
 *	Implement a classification model that predicts the category of the user query.
